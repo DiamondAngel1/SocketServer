@@ -1,0 +1,15 @@
+D:\Git\FirstProject\SocketServer\SocketClient\bin\Debug\net9.0\SocketClient.exe
+D:\Git\FirstProject\SocketServer\SocketClient\bin\Debug\net9.0\SocketClient.deps.json
+D:\Git\FirstProject\SocketServer\SocketClient\bin\Debug\net9.0\SocketClient.runtimeconfig.json
+D:\Git\FirstProject\SocketServer\SocketClient\bin\Debug\net9.0\SocketClient.dll
+D:\Git\FirstProject\SocketServer\SocketClient\bin\Debug\net9.0\SocketClient.pdb
+D:\Git\FirstProject\SocketServer\SocketClient\obj\Debug\net9.0\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\FirstProject\SocketServer\SocketClient\obj\Debug\net9.0\SocketClient.AssemblyInfoInputs.cache
+D:\Git\FirstProject\SocketServer\SocketClient\obj\Debug\net9.0\SocketClient.AssemblyInfo.cs
+D:\Git\FirstProject\SocketServer\SocketClient\obj\Debug\net9.0\SocketClient.csproj.CoreCompileInputs.cache
+D:\Git\FirstProject\SocketServer\SocketClient\obj\Debug\net9.0\SocketClient.sourcelink.json
+D:\Git\FirstProject\SocketServer\SocketClient\obj\Debug\net9.0\SocketClient.dll
+D:\Git\FirstProject\SocketServer\SocketClient\obj\Debug\net9.0\refint\SocketClient.dll
+D:\Git\FirstProject\SocketServer\SocketClient\obj\Debug\net9.0\SocketClient.pdb
+D:\Git\FirstProject\SocketServer\SocketClient\obj\Debug\net9.0\SocketClient.genruntimeconfig.cache
+D:\Git\FirstProject\SocketServer\SocketClient\obj\Debug\net9.0\ref\SocketClient.dll

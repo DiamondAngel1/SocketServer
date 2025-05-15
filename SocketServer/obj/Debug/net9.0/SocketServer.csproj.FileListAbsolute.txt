@@ -1,0 +1,15 @@
+D:\Git\FirstProject\SocketServer\SocketServer\bin\Debug\net9.0\SocketServer.exe
+D:\Git\FirstProject\SocketServer\SocketServer\bin\Debug\net9.0\SocketServer.deps.json
+D:\Git\FirstProject\SocketServer\SocketServer\bin\Debug\net9.0\SocketServer.runtimeconfig.json
+D:\Git\FirstProject\SocketServer\SocketServer\bin\Debug\net9.0\SocketServer.dll
+D:\Git\FirstProject\SocketServer\SocketServer\bin\Debug\net9.0\SocketServer.pdb
+D:\Git\FirstProject\SocketServer\SocketServer\obj\Debug\net9.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\FirstProject\SocketServer\SocketServer\obj\Debug\net9.0\SocketServer.AssemblyInfoInputs.cache
+D:\Git\FirstProject\SocketServer\SocketServer\obj\Debug\net9.0\SocketServer.AssemblyInfo.cs
+D:\Git\FirstProject\SocketServer\SocketServer\obj\Debug\net9.0\SocketServer.csproj.CoreCompileInputs.cache
+D:\Git\FirstProject\SocketServer\SocketServer\obj\Debug\net9.0\SocketServer.sourcelink.json
+D:\Git\FirstProject\SocketServer\SocketServer\obj\Debug\net9.0\SocketServer.dll
+D:\Git\FirstProject\SocketServer\SocketServer\obj\Debug\net9.0\refint\SocketServer.dll
+D:\Git\FirstProject\SocketServer\SocketServer\obj\Debug\net9.0\SocketServer.pdb
+D:\Git\FirstProject\SocketServer\SocketServer\obj\Debug\net9.0\SocketServer.genruntimeconfig.cache
+D:\Git\FirstProject\SocketServer\SocketServer\obj\Debug\net9.0\ref\SocketServer.dll
