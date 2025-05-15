@@ -12,6 +12,7 @@ client.Connect("127.0.0.1",2009);
 
 string message = Console.ReadLine();
 
+Console.WriteLine("Введіть повідомлення:");
 client.Send(Encoding.UTF8.GetBytes(message));
 
 byte[] buffer = new byte[1024];
